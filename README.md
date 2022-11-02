@@ -1,2 +1,2 @@
 # learninggit
-this is first commit
+This is first repository
